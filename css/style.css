@@ -254,6 +254,9 @@ h3 {
     flex-basis: 0;
     flex-basis 값을 0 으로 설정하여 기본 넓이를 없게하면 동일한 크기 자식요소를 만들 수 있다. */
 
+#our-best-seller>p{font-size: 20px; }
+
+
 .best-seller button {
     background-color: white;
     border: none;
